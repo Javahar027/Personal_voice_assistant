@@ -6,13 +6,14 @@ The Voice Assistant project is developed using Python.
 
 Team members:
 
+Javahar.A
+
 Dharun.R
 
 Ananth.R
 
 Arun Ritthik.K.K
 
-Javahar.A
 
 Project Description:
 
